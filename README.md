@@ -42,3 +42,5 @@ Podcast information provided by [Listen Notes API](https://www.listennotes.com/)
 
 ### Demo
 ![player](demo/listen-notes-demo.gif)
+
+### Elon masai
